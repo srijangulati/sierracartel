@@ -1,0 +1,59 @@
+#dedicatedOfficeBody, #virtualOffice{
+  margin-top:20px;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+#dedicatedOfficeBody, #virtualOfficeBody{
+  margin-bottom: 50px;
+  background-color: #AAAAAA;
+}
+
+#dedicatedOfficeBody .col-md-3, #virtualOfficeBody .col-md-3{
+  text-align: center;
+  margin-top: 30px;
+  color: white;
+}
+
+#dedicatedOfficeBody .col-md-4{
+  text-align: center;
+  margin-top: 30px;
+  color: white;
+}
+
+#dedicatedOfficeBody .fa, #virtualOfficeBody .fa{
+  color: #e96406;
+}
+#dedicatedOfficeBody .com-md-3 i, #virtualOfficeBody .col-md-3 i{
+  color: #e96406;
+}
+#dedicatedOfficeBody .sub-heading{
+  clear: both;
+  margin-top: 30px;
+  margin-left: 5%;
+  color: white;
+  margin-bottom: 30px;
+}
+#dedicatedOfficeBody .sub-heading-2{
+  clear: both;
+  margin-top: 150px;
+  margin-left: 5%;
+  color: white;
+  margin-bottom: 30px;
+}
+#dedicatedOfficeBody .sub-body{
+  clear:both;
+  margin-bottom: 40px;
+}
+.btn-book-div{
+  clear:both;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.btn-book{
+  color: white;
+  width: 220px;
+  background-color: #e96406;
+  font-weight: bold;
+}

@@ -1,0 +1,9 @@
+.feature-1,
+.feature-2 {
+    margin-bottom: 50px
+}
+.feature-content {
+    display: inline-block;
+    margin-left: 0;
+    width: 65%
+}
